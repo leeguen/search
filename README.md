@@ -19,5 +19,3 @@
 - 네이버 api 연동
 - 검색 기능
 
-## 프로젝트 진행
-[네이버 api를 이용한 검색 사이트]([https://catchknowledge.tistory.com/156](https://catchknowledge.tistory.com/160?category=1053212))
